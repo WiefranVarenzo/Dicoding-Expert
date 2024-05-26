@@ -33,6 +33,9 @@ Disini hanya menggunakan beberapa data untuk dilakukannya explorasi data (tanpa 
 9. Job Satisfaction
 10. YearsAtCompany
 
+Modelling:
+Saya melakukan preprocessing data dengan mengubah kolom kategorikal menjadi numerik dan memastikan semua fitur yang diinginkan tersedia. Setelah itu, saya menstandarkan fitur dan mengatasi ketidakseimbangan kelas menggunakan SMOTE. Data yang telah diproses saya bagi menjadi set pelatihan dan pengujian, kemudian model awal RandomForestClassifier saya latih untuk menentukan fitur terpenting. Selanjutnya, saya menggunakan RandomizedSearchCV untuk menemukan hyperparameter terbaik dan melatih model akhir dengan parameter tersebut. Model saya uji, dan kinerjanya saya evaluasi serta saya visualisasikan pentingnya fitur.
+
 ## Business Dashboard
 
 Business dashboard saya menampilkan hasil dari analisa data dari Google collab saya, dimana pada awalnya, dashboard saya akan menampilkan data KPI sebagai latar belakang data attrition, kemudian terdapat 6 bagan atau grafik lainnya yang menjelaskan mengapa tingkat attrition di perusahaan JayaJayaMaju itu tinggi.
