@@ -13,9 +13,10 @@ Jika pengembangan dan penjualan produk berkurang, maka Perusahan Jaya Jaya Maju 
 ### Cakupan Proyek
 
 Proyek yang telah saya kerjakan:
-1. File ipynb yang berisikan Analisa data serta model Machine learning untuk melihat faktor2  yang memiliki peran penting terhadap meningkatnya nilai attrition
-2. Dashboard yang berisikan tampilan visual data hasil analisa.
-3. Video berdurasi 4 menit 50 detik tentang penjelasan dashboard
+1. File ipynb yang berisikan Analisa data serta model Machine learning untuk melihat faktor-faktor yang memiliki peran penting terhadap meningkatnya nilai attrition
+https://colab.research.google.com/drive/1KOkl7JU9u2K2HMhEBCLZOPAdzepI2g-S?usp=sharing
+3. Dashboard yang berisikan tampilan visual data hasil analisa.
+4. Video berdurasi 4 menit 50 detik tentang penjelasan dashboard
 
 ### Persiapan
 
