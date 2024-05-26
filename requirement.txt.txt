@@ -1,0 +1,8 @@
+pandas
+sklearn
+matplotlib
+seaborn
+scipy
+imblearn.over_sampling
+google collab
+Tableau Public
