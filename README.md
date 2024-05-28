@@ -15,6 +15,7 @@ Proyek ini bertujuan untuk menganalisis dan mengatasi masalah tingkat attrition 
 
 1. Analisis Data Attrition:
 -) Mengumpulkan dan membersihkan data karyawan yang mencakup informasi seperti umur, jenis kelamin, gaji, lama bekerja, divisi, dan alasan keluar dari perusahaan. M
+
 -)Menganalisis data untuk menemukan pola dan tren yang mungkin berkontribusi terhadap tingginya tingkat attrition.
 2. Identifikasi Faktor Utama:
 -)Mengidentifikasi faktor-faktor utama yang mempengaruhi tingkat attrition, seperti gaji, lembur, peluang kenaikan jabatan, dan tingkat kepuasan kerja.
