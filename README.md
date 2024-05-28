@@ -12,30 +12,15 @@ Jika pengembangan dan penjualan produk berkurang, maka Perusahan Jaya Jaya Maju 
 
 ### Cakupan Proyek
 
-Proyek yang telah saya kerjakan:
-1. File ipynb yang berisikan Analisa data serta model Machine learning untuk melihat faktor-faktor yang memiliki peran penting terhadap meningkatnya nilai attrition
-https://colab.research.google.com/drive/1KOkl7JU9u2K2HMhEBCLZOPAdzepI2g-S?usp=sharing
-3. Dashboard yang berisikan tampilan visual data hasil analisa.
-4. Video berdurasi 4 menit 50 detik tentang penjelasan dashboard
 
 ### Persiapan
 
-Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee
-Disini hanya menggunakan beberapa data untuk dilakukannya explorasi data (tanpa machine learning), yaitu:
-1. Attrition
-2. Monthly Income
-3. OverTime
-4. JobRole
-5. StockOptionLevel
-6. Age
-7. Percent Salary Hike
-8. Job Involvement
-9. Job Satisfaction
-10. YearsAtCompany
 
-Modelling:
-Saya melakukan preprocessing data dengan mengubah kolom kategorikal menjadi numerik dan memastikan semua fitur yang diinginkan tersedia. Setelah itu, saya menstandarkan fitur dan mengatasi ketidakseimbangan kelas menggunakan SMOTE. Data yang telah diproses saya bagi menjadi set pelatihan dan pengujian, kemudian model awal RandomForestClassifier saya latih untuk menentukan fitur terpenting. Selanjutnya, saya menggunakan RandomizedSearchCV untuk menemukan hyperparameter terbaik dan melatih model akhir dengan parameter tersebut. Model saya uji, dan kinerjanya saya evaluasi serta saya visualisasikan pentingnya fitur.
+Setup environment:
 
+```
+
+```
 ## Business Dashboard
 
 Business dashboard saya menampilkan hasil dari analisa data dari Google collab saya, dimana pada awalnya, dashboard saya akan menampilkan data KPI sebagai latar belakang data attrition, kemudian terdapat 6 bagan atau grafik lainnya yang menjelaskan mengapa tingkat attrition di perusahaan JayaJayaMaju itu tinggi.
