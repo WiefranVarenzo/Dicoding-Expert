@@ -11,10 +11,35 @@ Jika stabilitas perusahaan terganggu dengan tingkat attrition karyawan yang ting
 Jika pengembangan dan penjualan produk berkurang, maka Perusahan Jaya Jaya Maju akan mengalami penurunan dalam kinerja penjualan mereka, serta perusahaan ini bisa saja akan di geser pasar customernya dengan saingan dari perusahaan lain yang berkecimpung di sektor bisnis yang sama. 
 
 ### Cakupan Proyek
+Proyek ini bertujuan untuk menganalisis dan mengatasi masalah tingkat attrition yang tinggi di perusahaan JayaJaya Maju. Dengan mengidentifikasi faktor-faktor yang mempengaruhi keluarnya karyawan, proyek ini berusaha untuk mengembangkan strategi yang dapat mengurangi tingkat attrition dan meningkatkan retensi karyawan. Berikut adalah rincian cakupan proyek:
 
+1. Analisis Data Attrition:
+-) Mengumpulkan dan membersihkan data karyawan yang mencakup informasi seperti umur, jenis kelamin, gaji, lama bekerja, divisi, dan alasan keluar dari perusahaan. M
+-)Menganalisis data untuk menemukan pola dan tren yang mungkin berkontribusi terhadap tingginya tingkat attrition.
+2. Identifikasi Faktor Utama:
+-)Mengidentifikasi faktor-faktor utama yang mempengaruhi tingkat attrition, seperti gaji, lembur, peluang kenaikan jabatan, dan tingkat kepuasan kerja.
+-)Menggunakan teknik statistik dan machine learning untuk menentukan faktor yang paling signifikan.
+3. Model Prediksi:
+-) Mengembangkan model prediksi untuk mengidentifikasi karyawan yang berisiko tinggi untuk keluar dari perusahaan.
+-) Model ini akan membantu manajemen dalam mengambil tindakan proaktif untuk mencegah keluarnya karyawan.
+4. Dashboard Visualisasi Data:
+-) Membangun dashboard interaktif yang menampilkan data KPI terkait attrition dan faktor-faktor yang mempengaruhinya.
+-) Dashboard ini akan membantu manajemen dalam memantau tingkat attrition dan efektivitas strategi yang diimplementasikan.
+5. Rekomendasi Strategi:
+-) Memberikan rekomendasi berbasis data untuk mengurangi tingkat attrition, seperti penyesuaian gaji, pengurangan lembur, dan peningkatan program apresiasi karyawan.
+-) Mengusulkan kebijakan dan program baru untuk meningkatkan kepuasan dan retensi karyawan.
+
+Output dari proyek ini meliputi:
+
+-) Model Prediksi: Model machine learning yang dapat memprediksi kemungkinan keluarnya karyawan dengan akurasi tinggi.
+-) Dashboard Visualisasi Data: Dashboard interaktif yang menampilkan data terkait attrition dan faktor-faktor penyebabnya.
+-) Rekomendasi Strategi: Daftar rekomendasi strategi berbasis data untuk mengurangi tingkat attrition dan meningkatkan retensi karyawan.
+-) Laporan Analisis: Laporan komprehensif yang mencakup analisis data, temuan utama, dan rekomendasi tindakan.
+
+Dengan proyek ini, diharapkan perusahaan JayaJaya Maju dapat mengurangi tingkat attrition, meningkatkan retensi karyawan, dan pada akhirnya, meningkatkan stabilitas dan pertumbuhan perusahaan.
 
 ### Persiapan
-
+Sumber Data: 'https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/main/employee/employee_data.csv'
 
 Setup environment:
 
