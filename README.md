@@ -31,7 +31,7 @@ Proyek ini bertujuan untuk menganalisis dan mengatasi masalah tingkat attrition 
 
 Output dari proyek ini meliputi:
 
-1. Model Prediksi: Model machine learning yang dapat memprediksi kemungkinan keluarnya karyawan dengan akurasi tinggi.
+1. Model Prediksi: Model machine learning yang dapat memprediksi faktor yang memperbesar kemungkinan keluarnya karyawan dengan akurasi tinggi.
 2. Dashboard Visualisasi Data: Dashboard interaktif yang menampilkan data terkait attrition dan faktor-faktor penyebabnya.
 3. Rekomendasi Strategi: Daftar rekomendasi strategi berbasis data untuk mengurangi tingkat attrition dan meningkatkan retensi karyawan.
 4. Laporan Analisis: Laporan komprehensif yang mencakup analisis data, temuan utama, dan rekomendasi tindakan.
@@ -42,19 +42,16 @@ Dengan proyek ini, diharapkan perusahaan JayaJaya Maju dapat mengurangi tingkat 
 Sumber Data: 'https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/main/employee/employee_data.csv'
 
 Setup environment:
-
+```
+!pip install imbalanced-learn
 ```
 
-```
 ## Business Dashboard
 
-Business dashboard saya menampilkan hasil dari analisa data dari Google collab saya, dimana pada awalnya, dashboard saya akan menampilkan data KPI sebagai latar belakang data attrition, kemudian terdapat 6 bagan atau grafik lainnya yang menjelaskan mengapa tingkat attrition di perusahaan JayaJayaMaju itu tinggi.
+Pada Business Dashboard HR Attrition Analysis, terdapat 7 bagan atau grafik yang merupakan analisa akhir dari proses analisa menggunakan Google Collab. Business dashboard di bawah dengan menggunakan pola Zigzag, dimana sebelah kiri akan menjadi pembuka awal masalah, sedangkan bagian kanan merupakan puncak dari analisa. Lalu, di baris bawah Business dashboard akan terdapat 3 bagan yang saling menjelaskan faktor-faktor yang mempengaruhi tingkat atrisi. Lalu,Dengan fitur dashboard yang dinamis, maka penggunaa bisa berinteraksi dengan melakukan hover pada bagan sehingga dapat melihat detail data yang ditampilkan. 
 
-Saya menggunakan alur kiri - kanan, dimana bagian kiri atas yang merupakan awal data yang akan berhubungan dengan bagan sebelah kanan yang menjadi grafik data yang penting.
-
-Link Dashboard: https://public.tableau.com/views/PerusahaanJayaJayaMaju/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
-
-Link penjelasan Dashboard: https://drive.google.com/drive/folders/11c_gZqqigSXW_PZZxew3ddDRa68BvCQA?usp=sharing
+Hasil Analisa Business Dashboard:
+Pada bagan pertama terdapat data KPI yang memberitahu jumlah total pegawai yang mengalami atrisi adalah sebanyak 179 dari 1470 total pegawai. Hal ini berarti tingkat atrisi di perusahaan Jaya Jaya Maju adalah sekitar 12,18% yang merupakan tingkat atrisi yang cukup tinggi untuk sebuah perusahaan (>10%). Business dashboard menampilkan beberapa faktor yang membuat tingkat atrisi ini semakin tinggi, dimana faktor yang pertama adalah Tingkat lembur pegawai. Tingkat lembur pegawai menyebabkan lebih banyak orang mengalami atrisi, yaitu sekitar 19% persen lebih banyak dari merka yang tidak mengalami lembur.
 
 ## Conclusion
 Teradapat beberapa konklusi yang bisa diambil:
