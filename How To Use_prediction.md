@@ -50,7 +50,7 @@ Department - Departemen tempat bekerja
 
 EducationField - Bidang Pendidikan
 
-Lalu, simpan data csv dalam nama variable df
+### Lalu, simpan data csv dalam nama variable df
 ```
 df = pd.read_csv(url)
 ```
