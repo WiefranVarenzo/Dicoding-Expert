@@ -71,7 +71,31 @@ Teradapat beberapa konklusi yang bisa diambil:
 ### Rekomendasi Action Items (Optional)
 
 Ada beberapa hal yang perlu dilakukan oleh perusahaan Jaya Jaya Maju agar tingkat attrition tidak semakin tinggi:
-1. Meningkatkan gaji beberapa Job role yang mendapatkan gaji yang rendah (seperti Research Scientist, sales representative, dan Laboratory Technician), serta untuk gaji bulanan juga dapat ditingkatkan terutama untuk mempertahankan karyawan muda yang memiliki kontribusi yang baik.
-2. Mengurangi lembur karyawan agar karyawan tidak merasa jenuh terhadap pekerjaan
-3. Mengapresiasi mereka yang melakukan kontribusi yang baik kepada perusahaan dengan memberikan mereka Opsi pemberian saham perusahaan, hal ini bisa membantu perusahaan mempertahankan karyawan yang bekerja dengan baik
-4. Memberikan peningkatan gaji yang stabil dan sesuai (tidak rendah). 
+1. Mengurangi Overtime:
+
+Pengurangan Lembur: Berdasarkan analisis, pegawai yang sering lembur memiliki atrisi 19% lebih tinggi. Idealnya, lembur harus dikurangi secara bertahap hingga maksimal 10 jam per minggu. Hal ini dapat membantu mengurangi stres dan kelelahan.
+Penerapan Fleksibilitas: Memberikan fleksibilitas jam kerja atau opsi kerja jarak jauh untuk mengurangi kebutuhan lembur.
+
+2. Meningkatkan Gaji untuk Job Role dengan Gaji Rendah:
+
+Penyesuaian Gaji: Job roles seperti Laboratory Technician, Research Scientist, dan Sales Representative dengan rata-rata gaji di bawah 5 ribu dolar per bulan perlu disesuaikan. Misalnya, menaikkan gaji minimal 10-15% untuk mencapai keseimbangan dengan peran lain yang sejenis.
+Skema Kenaikan Gaji: Membuat skema kenaikan gaji berdasarkan kinerja dan masa kerja untuk memastikan pegawai muda merasa dihargai dan memiliki prospek karir yang jelas.
+
+3. Mengapresiasi Kontribusi Pegawai:
+
+Opsi Saham: Memberikan opsi saham kepada pegawai dengan kontribusi tinggi (job involvement bernilai 3 atau lebih) dapat meningkatkan loyalitas. Pegawai yang tidak menerima saham memiliki angka atrisi tertinggi, sehingga opsi saham dapat mengurangi atrisi signifikan.
+
+Program Penghargaan: Menerapkan program penghargaan yang transparan dan berbasis kinerja, misalnya bonus tahunan atau insentif tambahan.
+
+4. Meningkatkan Stabilitas Kenaikan Gaji:
+
+Kenaikan Gaji Tahunan: Menetapkan kenaikan gaji tahunan yang stabil dan kompetitif untuk seluruh pegawai. Misalnya, kenaikan minimal 5% setiap tahun dapat membuat pegawai merasa dihargai dan termotivasi.
+
+Penyesuaian Berdasarkan Pasar: Meninjau gaji secara berkala dan menyesuaikan dengan standar industri untuk memastikan gaji pegawai tetap kompetitif.
+
+5. Mengurangi Lembur untuk Mencegah Kejenuhan:
+
+Peningkatan Kesejahteraan: Mengurangi jam lembur dan meningkatkan kesejahteraan pegawai melalui program kesehatan dan keseimbangan kerja-kehidupan dapat mengurangi tingkat kejenuhan.
+
+Kebijakan Kerja yang Sehat: Mendorong kebijakan kerja yang sehat, seperti waktu istirahat yang cukup dan cuti yang memadai, untuk menjaga kesejahteraan mental dan fisik pegawai.
+
