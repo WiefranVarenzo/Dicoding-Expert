@@ -2,7 +2,7 @@
 
 ## Business Understanding
 
-Perusahaan dari JayaJaya Maju adalah perusahaan multinatsion yang memiliki 1470 karyawan, dimana terdapat 179 orang yang keluar dari perusahaan. Sehingga, karyawan yang saat ini masih aktif hanya berjumlah 1291 orang saja. Dari perhitungan angka karyawan yang keluar dan jumlah total karyawan, maka bisa kita dapatkan bahwa attrition ratenya mencapai 12,18 persen yang merupakan attrition yang cukup besar untuk sebuah perusahaan. Jika tingkat attrition tinggi, maka perusahaan akan sulit berkembang dikarenakan harus merekrut karyawan baru, dimana karyawan tersebut diharuskan untuk beradaptasi kembali di perusahaan JayaJayaMaju. Hal ini bisa memakan waktu dan menghambat pertumbuhan dan stabilitas perusahan.
+Perusahaan dari JayaJaya Maju adalah perusahaan multination yang memiliki 1470 karyawan, dimana terdapat 179 orang yang keluar dari perusahaan. Sehingga, karyawan yang saat ini masih aktif hanya berjumlah 1291 orang saja. Dari perhitungan angka karyawan yang keluar dan jumlah total karyawan, maka bisa kita dapatkan bahwa attrition ratenya mencapai 12,18 persen yang merupakan attrition yang cukup besar untuk sebuah perusahaan. Jika tingkat attrition tinggi, maka perusahaan akan sulit berkembang dikarenakan harus merekrut karyawan baru, dimana karyawan tersebut diharuskan untuk beradaptasi kembali di perusahaan JayaJayaMaju. Hal ini bisa memakan waktu dan menghambat pertumbuhan dan stabilitas perusahan.
 
 ### Permasalahan Bisnis
 
